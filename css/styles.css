@@ -482,7 +482,7 @@ h5 {
 .section-features::before {
   position: absolute;
   content: "";
-  background: url(/img/7760234.jpg);
+  background: url(https://sphaerista.github.io/landing_one/img/7760234.jpg);
   opacity: 0.6;
   top: 0;
   right: 0;
