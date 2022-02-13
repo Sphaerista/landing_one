@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const { src, dest, watch } = require("gulp");
 const sass = require("gulp-sass")(require("sass"));
 const browserSync = require("browser-sync").create();
